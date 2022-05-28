@@ -1,14 +1,14 @@
 {
-  "CONTRACT_ADDRESS": "0x280351627e5dC86937E83da8Ff433843D61f6870",
-  "SCAN_LINK": "https://etherscan.io/token/0x280351627e5dc86937e83da8ff433843d61f6870",
+  "CONTRACT_ADDRESS": "0xf27bDf85143354a837D7d03D845B63Df7b5a52A2",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xf27bdf85143354a837d7d03d845b63df7b5a52a2",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Eth",
-    "ID": 1
+    "ID": 4
   },
   "NFT_NAME": "Nerdy Coder Clones",
   "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
+  "MAX_SUPPLY": 4444,
   "WEI_COST": 75000000000000000,
   "DISPLAY_COST": 0.075,
   "GAS_LIMIT": 285000,
