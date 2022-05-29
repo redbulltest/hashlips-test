@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xf27bDf85143354a837D7d03D845B63Df7b5a52A2",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xf27bdf85143354a837d7d03d845b63df7b5a52a2",
+  "CONTRACT_ADDRESS": "0x280351627e5dC86937E83da8Ff433843D61f6870",
+  "SCAN_LINK": "https://etherscan.io/token/0x280351627e5dc86937e83da8ff433843d61f6870",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "Eth",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Meme Cats",
   "SYMBOL": "Meme Cat",
